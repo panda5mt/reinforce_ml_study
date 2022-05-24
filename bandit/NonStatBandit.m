@@ -1,3 +1,4 @@
+%% non stationary Bandit
 classdef NonStatBandit
     properties
         arms = 10
