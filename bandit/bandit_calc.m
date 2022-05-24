@@ -1,4 +1,5 @@
 % Make Deep Learning from Zero vol.4
+% study for "bandit problem"
 % may 24,2022: finished 1.4.3
 runs = 300;
 steps = 1000;
